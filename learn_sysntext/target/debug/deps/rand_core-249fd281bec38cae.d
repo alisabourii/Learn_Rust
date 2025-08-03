@@ -1,0 +1,11 @@
+C:\Users\Ali\Documents\RustProject\Learn_Rust\learn_sysntext\target\debug\deps\rand_core-249fd281bec38cae.d: C:\Users\Ali\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\lib.rs C:\Users\Ali\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\block.rs C:\Users\Ali\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\impls.rs C:\Users\Ali\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\le.rs C:\Users\Ali\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\os.rs
+
+C:\Users\Ali\Documents\RustProject\Learn_Rust\learn_sysntext\target\debug\deps\librand_core-249fd281bec38cae.rlib: C:\Users\Ali\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\lib.rs C:\Users\Ali\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\block.rs C:\Users\Ali\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\impls.rs C:\Users\Ali\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\le.rs C:\Users\Ali\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\os.rs
+
+C:\Users\Ali\Documents\RustProject\Learn_Rust\learn_sysntext\target\debug\deps\librand_core-249fd281bec38cae.rmeta: C:\Users\Ali\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\lib.rs C:\Users\Ali\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\block.rs C:\Users\Ali\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\impls.rs C:\Users\Ali\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\le.rs C:\Users\Ali\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\os.rs
+
+C:\Users\Ali\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\lib.rs:
+C:\Users\Ali\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\block.rs:
+C:\Users\Ali\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\impls.rs:
+C:\Users\Ali\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\le.rs:
+C:\Users\Ali\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rand_core-0.9.3\src\os.rs:
