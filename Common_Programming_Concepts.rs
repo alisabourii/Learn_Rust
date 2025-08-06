@@ -31,7 +31,7 @@ fn main() {
     println!("The value of Y is: {y}");*/
 
     //Addition
-    let sum = 5+10;
+    /*let sum = 5+10;
 
     //Subtraction
     let diffrent = 95.5-4.3;
@@ -44,11 +44,17 @@ fn main() {
     let truncated = -5/3;
 
     //Reminder
-    let remaindier = 43%3; 
+    let remaindier = 43%3; */
 
     //------- The Boolean Type -------
     let t=true;
+
     let f=false;
+
+    //-------- The Tuple Type--------
+    let tup = (500,6.4,1);
+    let (x,y,z) = tup;
+    println!("The Value of y is: {y}");
 
 
 }
