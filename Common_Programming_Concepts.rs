@@ -45,4 +45,10 @@ fn main() {
 
     //Reminder
     let remaindier = 43%3; 
+
+    //------- The Boolean Type -------
+    let t=true;
+    let f=false;
+
+
 }
