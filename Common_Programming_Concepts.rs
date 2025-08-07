@@ -54,7 +54,25 @@ fn main() {
     //-------- The Tuple Type--------
     let tup = (500,6.4,1);
     let (x,y,z) = tup;
-    println!("The Value of y is: {y}");
+    //println!("The Value of y is: {y}");
 
+    //-------- The Array Type--------
+    let a = [1,2,3,4,5];
+
+    let months = ["January", "February", "March", "April", "May", "June", "July",
+              "August", "September", "October", "November", "December"];
+
+    let a = [3; 5];
+
+    let firstMonth = months[0];
+    let lastMonth = months[11];
+    //println!("First Month : {firstMonth}");
+    //println!("Last Month : {lastMonth}");
+
+
+
+}
+
+fn foundArrayIndex(){
 
 }
