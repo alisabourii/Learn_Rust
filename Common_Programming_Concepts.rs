@@ -73,8 +73,8 @@ fn main() {
 
     //foundArrayIndex();
     //another_func(5);
-    print_labeled_measurement(5, 'H');
-
+    //print_labeled_measurement(5, 'H');
+    if_flow();
 }
 
 fn foundArrayIndex(){
@@ -105,4 +105,12 @@ fn another_func(x:i32){
 fn print_labeled_measurement(value:i32, unit_label:char){
     println!("The measurement is: {value}{unit_label}");
 
+}
+fn if_flow(){
+    let number = 8;
+    if number < 5{
+        println!("Condition was true!");
+    }else {
+        println!("Condition was false!");
+    }
 }
