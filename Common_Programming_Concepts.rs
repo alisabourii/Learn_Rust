@@ -72,7 +72,8 @@ fn main() {
     //println!("Last Month : {lastMonth}");
 
     //foundArrayIndex();
-    another_func(5);
+    //another_func(5);
+    print_labeled_measurement(5, 'H');
 
 }
 
@@ -99,4 +100,9 @@ fn foundArrayIndex(){
 
 fn another_func(x:i32){
     print!("The Value of X: {x}");
+}
+
+fn print_labeled_measurement(value:i32, unit_label:char){
+    println!("The measurement is: {value}{unit_label}");
+
 }
