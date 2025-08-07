@@ -71,7 +71,8 @@ fn main() {
     //println!("First Month : {firstMonth}");
     //println!("Last Month : {lastMonth}");
 
-    foundArrayIndex();
+    //foundArrayIndex();
+    another_func(5);
 
 }
 
@@ -94,4 +95,8 @@ fn foundArrayIndex(){
 
     println!("The value of the element at index {index} is: {element}")
 
+}
+
+fn another_func(x:i32){
+    print!("The Value of X: {x}");
 }
