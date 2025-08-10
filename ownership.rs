@@ -27,3 +27,12 @@ fn calculate_length(s: String) -> (String, usize) {
 
     (s, length)
 }
+fn dangle()->&String{
+    let s = String::from("Hello");
+    &s
+}
+
+fn no_dangle()->String{
+    let s = String::from("Hello");
+    s
+}
